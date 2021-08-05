@@ -1,0 +1,15 @@
+{
+  "profile": {
+    "user": {
+      "name": "Maria",
+      "surname": "Perez",
+      "email": "mariadelcongo@gmail.com",
+      "role": "Presidente"
+    },
+    "preferences": {
+      "imgBackgroundUrl": "https://fondosmil.com/fondo/17010.jpg",
+      "profileImg": "https://www.gobernaciondelmagdalena.gov.co/wp-content/uploads/2021/04/sin_foto.png"
+    },
+    "account": true
+  }
+}
